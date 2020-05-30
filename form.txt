@@ -1,0 +1,10 @@
+I have made an app that helps one to decide which food to eat. Basically, it randomly chooses the food from the list and displays it on the screen. One can add new food in the list by adding the name in the list. I have used arraylist to store the food names. It can be  updated by adding new names.
+
+
+
+ArrayList, Functions, Classes
+
+
+
+
+I got to know the fundamentals of Kotlin. It was very good learning experience.
